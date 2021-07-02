@@ -36,3 +36,35 @@ console.log('abc' * 10) // NaN
 
 
 // ****** STRING ******
+
+var str = 'string';
+var str2 = "string";
+var str3 = `string`;
+
+var str4 = String('fdfsdre');
+var str5 = String(345);
+var str6 = String(5.66);
+
+console.log(str4, str5, str6);
+
+
+// ****** BOOLEANS ******
+
+var b1 = true;
+var b2 = false;
+
+var b3 = Boolean(true);
+var b4 = Boolean(false);
+
+console.log(b3, b4);
+
+
+// ****** NULL VS UNDEFINED ******
+
+var abc 
+var xyz = null;
+
+console.log(abc, xyz)
+
+
+

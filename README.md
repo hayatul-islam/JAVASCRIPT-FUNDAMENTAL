@@ -1,1 +1,1 @@
-# JS_FOR_ALL
+# Javascript fundamental
